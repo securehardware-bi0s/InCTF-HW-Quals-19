@@ -2,17 +2,17 @@
 
 |Category|# of challs|
 |:-:|:-:|
-|[Pwn](Pwn/)|7|
-|[SCADA](SCADA/)|5|
-|[Auto](Auto/)|5|
-|[Reversing](Reversing/)|9|
-|[Hardware](Hardware/)|6|
+|[Pwn](Pwn/)|1|
+|[SCADA](SCADA/)|2|
+|[Auto](Auto/)|2|
+|[Reversing](Reversing/)|3|
+|[Hardware](Hardware/)|2|
 
 ## Directory Structure
 There are five sub-directories in this directory (one for each field):
 1. Pwn
-2. SCADA 
-3. Auto 
+2. SCADA
+3. Auto
 4. Reversing
 5. Hardware 
 
