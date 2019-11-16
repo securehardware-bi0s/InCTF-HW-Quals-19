@@ -26,6 +26,5 @@ If no one is trying it out
 
 
 
-Test the challenge
+flag = inctf{4vr_15_r34lly_345y}
 
-Reference: https://silipwn.github.io/archive/2018/10/13/InCTF_18_Writeup.html
