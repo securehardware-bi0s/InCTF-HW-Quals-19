@@ -1,6 +1,5 @@
 # Auto 
 
-|S.No.| Challenge Name | Points | Difficulty |Testing| # Solves
-|:---:|:--------------:|:------:|:----------:|:------:|:---------:|
-|1| [Test](PackedException/)|979|Medium|8|
-|2| [Test](DragonSlayer/)|1000|Legendary|0|
+|S.No.| Challenge Name | Points | Difficulty |Solves
+|:---:|:--------------:|:------:|:----------:|:---------:|
+|1| [Node-Find](Node-Find/)|150|Medium|2|

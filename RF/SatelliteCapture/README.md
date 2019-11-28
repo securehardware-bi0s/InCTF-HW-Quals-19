@@ -1,6 +1,7 @@
 ### Challenge Description:
-We managed to capture the transmissions that Agent Smith was using.
-We aren't able to decode, how about you give it a shot?
+We managed to capture an transmission from the Apollo-11.
+
+What was it trying to send ??
 
 Solution:
 The given file is the audio capture of Morse Code.
