@@ -3,10 +3,6 @@ We managed to capture an transmission from the Apollo-11.
 
 What was it trying to send ??
 
-Solution:
-The given file is the audio capture of Morse Code.
-Using the below wesbite one can easily decode the content of the code.
+[Solution](./soln.md)
 
-https://morsecode.scphillips.com/
-
-flag :  inctf-m0rs3-!s-1-4w3s0m3-4rmat
+flag: inctf{sl0w-sc@n_t3l3v1s10n}

@@ -1,0 +1,14 @@
+FROM ubuntu
+
+RUN  apt-get -y update && \
+     apt-get -y install python  && \
+     apt-get -y install python-pip && \
+     pip install pymodbus 
+
+ADD server.py /root/server.py
+
+RUN chmod +x /root/server.py
+
+ENTRYPOINT  /root/server.py
+
+
