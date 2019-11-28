@@ -4,7 +4,7 @@ There is a node in the securehardware car which is trying to communicate with pa
 
 
 #### Hint 
-The node might be 0x000007*# 
+The node might be 0x0000078c 
 
 
 [Solution](./soln.md)
