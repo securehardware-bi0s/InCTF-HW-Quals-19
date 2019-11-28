@@ -3,8 +3,8 @@
 |Category|# of challs|
 |:-:|:-:|
 |[Pwn](Pwn/)|1|
-|[SCADA](SCADA/)|2|
-|[Auto](Auto/)|2|
+|[SCADA](SCADA/)|1|
+|[Auto](Auto/)|1|
 |[Reversing](Reversing/)|3|
 |[Hardware](Hardware/)|2|
 
