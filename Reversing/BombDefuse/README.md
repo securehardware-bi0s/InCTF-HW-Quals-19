@@ -8,7 +8,6 @@ Help us defuse it !!!
 2. baud rate = 57600
 3. avr-gdb build with python support.
 
-
-
 [Solution](./soln.md)
+
 flag = inctf{4vr_15_r34lly_345y}
